@@ -1,12 +1,12 @@
 ## Studio Name Ideas
 - **Primary Ideas:**
   - DanMo Games
+  - Pukeko Studios
+  - John Gaming
+- **Alternative Ideas:**
+  - Render Studios
   - The Purple Jerboa
   - Best Studios
-- **Alternative Ideas:**
-  - 
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
 
 - DanMo Games:
 - **About the name**: Combination of my First and Last Name, feels easy to say and remember
