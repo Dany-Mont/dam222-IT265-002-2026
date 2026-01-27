@@ -2,11 +2,11 @@
 - **Primary Ideas:**
   - DanMo Games
   - Pukeko Studios
-  - John Gaming
+  - CorneredRat
 - **Alternative Ideas:**
   - Render Studios
-  - RVT Studios
-  - Best Studios
+  - John Gaming
+  - RVT Ltd.
 
 - DanMo Games:
 - **About the name**: Combination of my First and Last Name, feels easy to say and remember
