@@ -26,7 +26,9 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-- 
+- What is a game
+- Gameplay Mechanics
+- The creative process
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
