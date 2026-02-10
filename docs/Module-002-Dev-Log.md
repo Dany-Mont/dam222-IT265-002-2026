@@ -18,7 +18,7 @@
     <!--Finished the Atari Case Study-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Finding Info About the game. Getting Gud so I can finish the game.-->
+     <!--Finding Info About the game. Getting Gud so I can finish the game.-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
      <!--Looked at online forums, Played the game until I was able to get to the second to last level-->
